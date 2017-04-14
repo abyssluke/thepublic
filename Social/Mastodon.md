@@ -1,4 +1,6 @@
 # Mastodonアカウント
+インスタンス名の横にある絵文字は名前に付いている絵文字です
+
  * mstdn.jp ✅ https://mstdn.jp/@abyssluke
  * mastodon.social 🐘 https://mastodon.social/@abyssluke
  * mastodon.cloud https://mastodon.cloud/@abyssluke
