@@ -6,5 +6,6 @@ ID: abyssluke
 
 ## トロフィーカード
 ※もしかしたらキャッシュされてるかもしれないです
+
 ![Trophy Card by PSNProfiles.com](http://card.psnprofiles.com/1/abyssluke.png)
 
