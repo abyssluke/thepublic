@@ -1,8 +1,8 @@
 # 所持ゲームハード
 
-* Nintendo 3DS
+* Nintendo 3DS CTR-001
 * PSP PSP-1000
 * PSP PSP-2000
 * PSVita PCH-1100
 * PS3 CECH-2000A
-* PS4 CUH-1000
+* PS4 CUH-1000(PS Camera付属)
