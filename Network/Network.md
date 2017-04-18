@@ -1,7 +1,7 @@
 # ネットワーク
 
 * Line: フレッツ光ネクスト ファミリー・ハイスピード
-* Provider: au one net / i-revo
+* Provider: au one net(v4(slave)/v6(via JPNE)) / i-revo(v4(main))
 
 * HGW: PR-400NE
 * Router: NETGEAR WNDR4300
